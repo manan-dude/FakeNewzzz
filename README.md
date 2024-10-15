@@ -1,6 +1,8 @@
 
 
 # 📰 **News Authenticity Checker & Financial Fraud Detector**
+![Screenshot (472)](https://github.com/user-attachments/assets/a9e20768-945d-439c-9af2-d73e4dafcfdd)
+
 
 Welcome to the **News Authenticity Checker** and **Financial Fraud Detector** application! This app leverages Google Generative AI to help users determine the authenticity of news content and detect potential financial fraud. 
 
