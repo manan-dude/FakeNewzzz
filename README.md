@@ -1,6 +1,4 @@
-Here's a sample README documentation for your Express application that includes instructions, emojis, and formatting to make it visually appealing:
 
----
 
 # 📰 **News Authenticity Checker & Financial Fraud Detector**
 
@@ -25,7 +23,7 @@ Welcome to the **News Authenticity Checker** and **Financial Fraud Detector** ap
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/manan-dude/FakeNewzzz.git
    cd <repository-directory>
    ```
 
